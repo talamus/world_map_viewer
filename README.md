@@ -1,3 +1,6 @@
+World Map Viewer for TOGoS's Minecraft Map Renderer 
+===================================================
+
 Configuration
 -------------
 
