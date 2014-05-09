@@ -40,7 +40,7 @@ With Firefox you can use this file as-is. Just make sure that
 "tiles_baseurl" points to a subdirectory where tiles.html and
 tile.x.z.png images are located.
 
-With Chrome/Chromium replace the <body> tag (at the end of this
+With Chrome/Chromium replace the body tag (at the end of this
 file) with the version that is found at tiles.html. Change
 "tiles_html" variable to:
 
@@ -67,18 +67,18 @@ Internet Explorer is not supported. Use at your own risk.
 Copyright et al.
 ----------------
 
-This file includes dragscrollable and scrollsync Copyright (c) 2009 Miquel Herrera
-Dual licensed under the MIT and GPL licenses:
-    http://www.opensource.org/licenses/mit-license.php
+This file includes dragscrollable and scrollsync Copyright (c) 2009 Miquel Herrera <br /> 
+Dual licensed under the MIT and GPL licenses: <br /> 
+    http://www.opensource.org/licenses/mit-license.php <br /> 
     http://www.gnu.org/licenses/gpl.html
 
-This file also includes parts of minecraft.ttf created by DjDCH
+This file also includes parts of minecraft.ttf created by DjDCH <br /> 
 Licensed under Creative Commons License (Share Alike)
 
-TOGoS's Minecraft Map Renderer can be found at:
+TOGoS's Minecraft Map Renderer can be found at: <br /> 
 http://www.nuke24.net/projects/TMCMR/
 
-Rest of the stuff is created by me (Tero Niemi) and
+Rest of the stuff is created by me (Tero Niemi) and <br /> 
 licensed under AGPLv3 (http://www.gnu.org/licenses/agpl-3.0.html)
 
 Have fun!
